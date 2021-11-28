@@ -1,16 +1,25 @@
-### Hi there 🎠
+### HI THERE 🎠
 
 
-just windowshopping.
-Hello hellooo?
-
-
+>just windowshopping.
+>Hello hellooo?
 
 ***
 
-> just about to become a web developer. what an awesome adventure!
+just about to become a web developer. what an awesome adventure!
 
 ***
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumsausende&show_icons=true&theme=panda)
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 <!--
