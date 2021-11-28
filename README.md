@@ -6,6 +6,13 @@ Hello hellooo?
 
 
 
+***
+
+> just about to become a web developer. what an awesome adventure!
+
+***
+
+
 <!--
 **bumsausende/bumsausende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
